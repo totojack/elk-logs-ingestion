@@ -14,7 +14,7 @@ You must create a grok expression for a correct logs ingestion. Check it using t
 
 ## Logstash configuration
 
-You must update logstash.conf file updating your grok configuration.
+You must review logstash.conf file updating your grok configuration and other filters.
 
 ## Logs ingestion and visualization
 
